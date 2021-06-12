@@ -17,3 +17,20 @@
 ![1-5](https://user-images.githubusercontent.com/33650185/121773035-45c4a880-cbb4-11eb-81ca-0bd7a91f6e3c.png)
 ## Plot images and probability that model predicted wrong
 ![1-6](https://user-images.githubusercontent.com/33650185/121773036-465d3f00-cbb4-11eb-9acf-ba153ce884f2.png)
+
+***
+
+## MODEL 2 : 5 Layers with 2 Convolution layer 
+
+![2-1](https://user-images.githubusercontent.com/33650185/121773572-bc16da00-cbb7-11eb-9bc8-64bc52262bb4.png)
+
+## Training Step
+![2-2](https://user-images.githubusercontent.com/33650185/121773573-bd480700-cbb7-11eb-9385-0017cbe9918d.png)
+## Test Step 
+### Perform Test with Test data 
+![2-3](https://user-images.githubusercontent.com/33650185/121773574-bd480700-cbb7-11eb-8569-746f288d2f86.png)
+## Plot images and probability that model predicted right
+![2-4](https://user-images.githubusercontent.com/33650185/121773575-bd480700-cbb7-11eb-92c0-18f8223fd856.png)
+![2-5](https://user-images.githubusercontent.com/33650185/121773576-bde09d80-cbb7-11eb-9b0f-03bf98b75301.png)
+## Plot images and probability that model predicted wrong
+![2-6](https://user-images.githubusercontent.com/33650185/121773577-bde09d80-cbb7-11eb-8c8f-1657de5c64f4.png)
