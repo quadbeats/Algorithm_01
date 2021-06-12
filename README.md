@@ -1,5 +1,5 @@
 # Algorithm_01 Assignment 05
-
+* 20170562 조성규
 ## MODEL 1 : 3 Layers with 1 Convolution layer
 
 
