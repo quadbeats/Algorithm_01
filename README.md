@@ -18,10 +18,17 @@
 ## Plot images and probability that model predicted wrong
 ![1-6](https://user-images.githubusercontent.com/33650185/121773036-465d3f00-cbb4-11eb-9acf-ba153ce884f2.png)
 
+
+
+
+***
 ***
 
-## MODEL 2 : 5 Layers with 2 Convolution layer 
 
+
+
+## MODEL 2 : 5 Layers with 2 Convolution layer 
+![2](https://user-images.githubusercontent.com/33650185/121773615-05672980-cbb8-11eb-8da6-de5959201d8b.png)
 ![2-1](https://user-images.githubusercontent.com/33650185/121773572-bc16da00-cbb7-11eb-9bc8-64bc52262bb4.png)
 
 ## Training Step
