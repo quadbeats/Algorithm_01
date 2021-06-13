@@ -1,10 +1,6 @@
 # Algorithm_01 Assignment 05
 * 20170562 조성규
-* What model you used
-Training and Training loss
-Test Accuracy result
-Images and corresponding probability that are predicted right
-Images and corresponding probability that are predicted wrong
+
 ## MODEL 1 : 3 Layers with 1 Convolution layer
 
 
